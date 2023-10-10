@@ -1,22 +1,6 @@
 return {
-    ["ilikeadulf_hitrer"] = {
-        TagText = "ADOLF HITLER",
-        TagColor = Color3.fromRGB(43, 99, 255)
-    },
     ["WerryTheFunnyGuy1"] = {
         TagText = "VAPE PRIVATE",
         TagColor = Color3.fromRGB(128, 0, 128)
-    },
-    ["assasinho_le"] = {
-        TagText = "n1san1",
-        TagColor = Color3.fromRGB(0, 0, 255)
-    },
-    ["dhasiupmdhcppa"] = {
-        TagText = "HITLER",
-        TagColor = Color3.fromRGB(255, 0, 0)
-    },
-    ["helltristhe_greatest"] = {
-        TagText = "n1san1 V2",
-        TagColor = Color3.fromRGB(255, 255, 255)
     }
 }
