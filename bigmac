@@ -1,6 +1,6 @@
 return {
     ["WerryTheFunnyGuy1"] = {
         TagText = "VAPE PRIVATE",
-        TagColor = Color3.fromRGB(128, 0, 128)
+        TagColor = Color3.fromRGB(191, 0, 255)
     }
 }
