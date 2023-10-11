@@ -1,6 +1,6 @@
 return {
     ["WerryTheFunnyGuy1"] = {
-        TagText = "JESUS CHRIST",
-        TagColor = Color3.fromRGB(255, 215, 0)
+        TagText = "VAPE OWNER",
+        TagColor = Color3.fromRGB(157, 67, 73)
     }
 }
